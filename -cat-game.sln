@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "-cat-game", "-cat-game\-cat-game.vcxproj", "{B9CC4137-245A-4F20-8903-A0F198FD7E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CC4137-245A-4F20-8903-A0F198FD7E0D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9CC4137-245A-4F20-8903-A0F198FD7E0D}.Debug|Win32.Build.0 = Debug|Win32
+		{B9CC4137-245A-4F20-8903-A0F198FD7E0D}.Release|Win32.ActiveCfg = Release|Win32
+		{B9CC4137-245A-4F20-8903-A0F198FD7E0D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
